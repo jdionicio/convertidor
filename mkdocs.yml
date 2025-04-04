@@ -1,5 +1,5 @@
 site_name: Convertidor PDF VUCEM
-site_url: https://jdionicio.github.io/convertidor.github.io/docs
+site_url: https://jdionicio.github.io/convertidor.github.io/
 theme:
   name: material
   palette:
