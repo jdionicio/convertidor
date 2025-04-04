@@ -1,0 +1,6 @@
+site_name: Convertidor PDF VUCEM
+site_url: https://convertidor.quiana.app/docs
+theme:
+  name: material
+  palette:
+    primary: teal
